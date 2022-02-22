@@ -1,6 +1,6 @@
 <?php
 
-namespace EasyFeishu\Tests\User\Calendar;
+namespace EasyFeishu\Tests\User\Calendars;
 
 use EasyFeishu\Tests\User\UserTest;
 use Mayunfeng\Supports\Collection;

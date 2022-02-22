@@ -1,5 +1,5 @@
 {
-  "name": "mayunfeng/easy-feishu",
+  "name": "aqaue18ax/easy-feishu",
   "description": "飞书SDK",
   "keywords": [
     "feishu",
@@ -17,7 +17,7 @@
     }
   ],
   "require": {
-    "php": ">=7.3.0",
+    "php": "^8.0.2",
     "ext-curl": "*",
     "ext-json": "*",
     "ext-openssl": "*",
@@ -25,10 +25,10 @@
     "ext-mbstring": "*",
     "mayunfeng/supports": "^1.0",
     "pimple/pimple": "~3.0",
-    "psr/simple-cache": "^1.0",
-    "symfony/cache": "^3.3|^4.3|^5.2|^5.3",
-    "symfony/http-foundation": "^2.7|^3.0|^4.0|^5.0",
-    "symfony/psr-http-message-bridge": "~0.3|^1.0"
+    "psr/simple-cache": "^3.0",
+    "symfony/cache": "^6.0",
+    "symfony/http-foundation": "^6.0",
+    "symfony/psr-http-message-bridge": "^2.0"
   },
   "config": {
     "optimize-autoloader": true,

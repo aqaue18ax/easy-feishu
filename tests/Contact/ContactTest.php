@@ -1,6 +1,6 @@
 <?php
 
-namespace EasyFeishu\Tests\Soft;
+namespace EasyFeishu\Tests\Contact;
 
 use EasyFeishu\Tests\TestCase;
 use Mayunfeng\Supports\Collection;

@@ -1,9 +1,10 @@
 <?php
 
-namespace EasyFeishu\Tests\User;
+namespace EasyFeishu\Tests\User\Authen;
 
 use EasyFeishu\Mina\Mina;
 use Mayunfeng\Supports\Collection;
+use EasyFeishu\Tests\User\UserTest;
 
 class AuthenTest extends UserTest
 {

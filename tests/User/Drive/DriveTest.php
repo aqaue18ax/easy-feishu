@@ -1,6 +1,6 @@
 <?php
 
-namespace EasyFeishu\Tests\User\Im;
+namespace EasyFeishu\Tests\User\Drive;
 
 use EasyFeishu\Tests\User\UserTest;
 use GuzzleHttp\Client;
